@@ -6,15 +6,16 @@
       "view",
       "render"
     ],
+    "type": "library",
     "license": "MIT",
     "authors": [
       {
-        "name": "Maratib Ali Khan",
-        "homepage": "https://maratib.github.io"
+        "name": "Your Name",
+        "homepage": "https://your.domain.com"
       }
     ],
     "require": {
-      "php": ">=8.0"
+      "php": "^7.4|^8.0"
     },
 
     "require-dev": {
